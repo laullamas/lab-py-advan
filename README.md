@@ -1,2 +1,13 @@
 # lab-py-advan
-Laboratorio 5, Explotando el paralelismo con Python en CPUs, asignatura HPC-Bio, Máster en Bioinformática de la Universidad de Murcia
+
+Este repositorio contiene el desarrollo del Laboratorio 5 de Python en paralelo, correspondiente a la asignatura HPC-Bio.
+
+## Contenido
+
+- multiprocessing y Numba: Básico
+- multiprocessing y Numba: Avanzado
+- Actividades extras
+
+## Autor
+
+Laura Llamas López (alumno09)
